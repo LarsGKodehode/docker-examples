@@ -4,6 +4,7 @@ A small collection of simple containerized applications with associated Dokerfil
 ## Examples
 - Pure HTML and CSS inside an NGINX image
 - React with ViteJS inside an NGINX image
+- Node Express Server inside a NodeJS image
 
 ## Further Links
 - [Docker Docs](https://docs.docker.com/)
