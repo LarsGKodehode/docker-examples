@@ -2,7 +2,7 @@
 A small collection of simple containerized applications with associated Dokerfiles
 
 ## Examples
-TODO
+- Pure HTML and CSS inside an NGINX image
 
 ## Further Links
 - [Docker Docs](https://docs.docker.com/)
